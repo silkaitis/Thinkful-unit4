@@ -13,7 +13,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Use RandomForestClassifier from Sklearn
   * Output
-```
+  ```
     The Random Forest Classifier model accuracy score is 0.914 using 66 features
     The Random Forest Classifier model precision score is 0.916 using 66 features
     The Random Forest Classifier model recall score is 0.914 using 66 features
@@ -30,9 +30,8 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     8. fAccJerk_STD_Z (0.027)
     9. tAcc_STD_Z (0.027)
     10. tAccJerk_STD_Z (0.027)
-```
-![text](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Feature_Importance.png?raw=true)
-
+  ```
+    ![text](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Feature_Importance.png?raw=true)
 2. RandomForest.ipynb
   * Purpose
     * Predict movement type from all features of accelerometer and gyroscopic data
@@ -40,7 +39,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Use RandomForestClassifier from Sklearn
   * Output
-```
+  ```
     The Random Forest Classifier model accuracy score is 0.925 using 561 features
     The Random Forest Classifier model precision score is 0.926 using 561 features
     The Random Forest Classifier model recall score is 0.925 using 561 features
@@ -57,17 +56,16 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     8. tGravityAcc_max_Y (0.024)
     9. tGravityAcc_max_X (0.022)
     10. tGravityAcc_energy_Y (0.017)
-```
-![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Feature_Importance_Full.png?raw=true)
-
+  ```
+    ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Feature_Importance_Full.png?raw=true)
 3. kNN.ipynb
   * Purpose
     * Classify flower type using feature lengths
   * Learning Objectives
     * Implement a Nearest Neighbor function
   * Output
-```
-      Iteration 0
+  ```
+    Iteration 0
     Majority class is Iris-virginica
     Data point 130 was selected
     Data point class is Iris-virginica
@@ -116,33 +114,30 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     Majority class is Iris-setosa
     Data point 31 was selected
     Data point class is Iris-setosa
-```
+  ```
     ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/kNN_sepal_wid_vs_len.png?raw=true)
-
 4. kMeans.ipynb
   * Purpose
     * Cluster individuals based on age, infant mortality and GDP
   * Learning Objectives
     * Implement kMeans from SciPy
   * Output
-
+  
     ![i1](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/GDPperCapita.png?raw=true)
-
     ![i2](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Average%20within-cluster%20sum%20of%20squares.png?raw=true)
-
 5. cross_validation.ipynb
   * Purpose
     * Cross validate a linear regression model of loan data
   * Learning Objectives
     * Apply KFold from Sklearn to loan data
   * Output
-```
+  ```
     Average mean squared error for entire cross validation : 17.51
 
     Average mean absolute error for entire cross validation : 3.38
 
     Average R squared for entire cross validation : -0.00
-```
+  ```
 6. LDA_iris.ipynb
   * Purpose
     * Inspect the data transformation of a Linear Discriminant Analysis
@@ -150,44 +145,37 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Implement a Linear Discriminant Analysis from Sklearn
   * Output
-
+  
     ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20raw.png?raw=true)
-
     ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20LDA.png?raw=true)
-
     ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20LDA%20kMeans.png?raw=true)
-
 7. PCA_iris.ipynb
   * Purpose
     * Visual comparison of kNN and Principal Component Analysis (PCA) classification of iris data
   * Learning Objectives
     * Implement PCA from Sklearn
   * Output
-
+  
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20PCA.png?raw=true)
-
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20kNN.png?raw=true)
-
 8. SVM_iris.ipynb
   * Purpose
     * Classify flower type using feature lengths
   * Learning Objectives
     * Implement Support Vector Machine from Sklearn
   * Output
-
+  
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20-%20SVM.png?raw=true)
-
 9. NaiveBayes.ipynb
   * Purpose
     * Predict gender from actual and ideal weight
   * Learning Objectives
     * Use Gaussian Navie Bayes from Sklearn
   * Output
-```
+  ```
     An individual with an actual weight of 145, an ideal weight of 160 and weight different of -15 is most likely Male
 
     An individual with an actual weight of 160, an ideal weight of 145 and weight different of 15 is most likely Female
-```
-    ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Acutal%20&%20Ideal%20Weight.png?raw=true)
-
+  ```
+    ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Acutal%20&%20Ideal%20Weight.png?raw=true)  
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Difference%20in%20Actual%20&%20Ideal%20Weight.png?raw=true)
