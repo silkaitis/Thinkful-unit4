@@ -125,9 +125,11 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Implement kMeans from SciPy
   * Output
+
     ![i1](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/GDPperCapita.png?raw=true)
 
     ![i2](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Average%20within-cluster%20sum%20of%20squares.png?raw=true)
+
 5. cross_validation.ipynb
   * Purpose
     * Cross validate a linear regression model of loan data
@@ -148,6 +150,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Implement a Linear Discriminant Analysis from Sklearn
   * Output
+
     ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20raw.png?raw=true)
 
     ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20LDA.png?raw=true)
@@ -160,6 +163,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Implement PCA from Sklearn
   * Output
+
   ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20PCA.png?raw=true)
 
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20kNN.png?raw=true)
