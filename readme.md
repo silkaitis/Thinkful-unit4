@@ -32,6 +32,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     10. tAccJerk_STD_Z (0.027)
 ```
 ![text](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Feature_Importance.png?raw=true)
+
 2. RandomForest.ipynb
   * Purpose
     * Predict movement type from all features of accelerometer and gyroscopic data
@@ -58,6 +59,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     10. tGravityAcc_energy_Y (0.017)
 ```
 ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Feature_Importance_Full.png?raw=true)
+
 3. kNN.ipynb
   * Purpose
     * Classify flower type using feature lengths
@@ -116,6 +118,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     Data point 31 was selected
     Data point class is Iris-setosa
   ```
+
 4. kMeans.ipynb
   * Purpose
     * Cluster individuals based on age, infant mortality and GDP
@@ -150,6 +153,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20LDA.png?raw=true)
 
     ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20LDA%20kMeans.png?raw=true)
+
 7. PCA_iris.ipynb
   * Purpose
     * Visual comparison of kNN and Principal Component Analysis (PCA) classification of iris data
@@ -159,6 +163,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20PCA.png?raw=true)
 
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20kNN.png?raw=true)
+
 8. SVM_iris.ipynb
   * Purpose
     * Classify flower type using feature lengths
@@ -166,6 +171,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     * Implement Support Vector Machine from Sklearn
   * Output
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20-%20SVM.png?raw=true)
+
 9. NaiveBayes.ipynb
   * Purpose
     * Predict gender from actual and ideal weight
