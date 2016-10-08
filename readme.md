@@ -66,8 +66,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Implement a Nearest Neighbor function
   * Output
-  ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/kNN_sepal_wid_vs_len.png?raw=true)
-  ```
+```
       Iteration 0
     Majority class is Iris-virginica
     Data point 130 was selected
@@ -117,7 +116,8 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     Majority class is Iris-setosa
     Data point 31 was selected
     Data point class is Iris-setosa
-  ```
+```
+    ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/kNN_sepal_wid_vs_len.png?raw=true)
 
 4. kMeans.ipynb
   * Purpose
@@ -136,13 +136,13 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Apply KFold from Sklearn to loan data
   * Output
-    ```
+```
     Average mean squared error for entire cross validation : 17.51
 
     Average mean absolute error for entire cross validation : 3.38
 
     Average R squared for entire cross validation : -0.00
-    ```
+```
 6. LDA_iris.ipynb
   * Purpose
     * Inspect the data transformation of a Linear Discriminant Analysis
@@ -164,7 +164,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     * Implement PCA from Sklearn
   * Output
 
-  ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20PCA.png?raw=true)
+    ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20PCA.png?raw=true)
 
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20dataset%20-%20kNN.png?raw=true)
 
@@ -174,6 +174,7 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Implement Support Vector Machine from Sklearn
   * Output
+
     ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Iris%20-%20SVM.png?raw=true)
 
 9. NaiveBayes.ipynb
@@ -182,12 +183,11 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
   * Learning Objectives
     * Use Gaussian Navie Bayes from Sklearn
   * Output
-  ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Acutal%20&%20Ideal%20Weight.png?raw=true)
-
-    ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Difference%20in%20Actual%20&%20Ideal%20Weight.png?raw=true)
-
-    ```
+```
     An individual with an actual weight of 145, an ideal weight of 160 and weight different of -15 is most likely Male
 
     An individual with an actual weight of 160, an ideal weight of 145 and weight different of 15 is most likely Female
-    ```
+```
+    ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Acutal%20&%20Ideal%20Weight.png?raw=true)
+
+    ![graph](https://github.com/silkaitis/Thinkful-unit4/blob/master/images/Difference%20in%20Actual%20&%20Ideal%20Weight.png?raw=true)
