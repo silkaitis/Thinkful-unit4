@@ -32,7 +32,6 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     10. tAccJerk_STD_Z (0.027)
 ```
 ![text](https://github.com/silkaitis/Thinkful-unit4/blob/master/Feature_Importance.png?raw=true)
-
 2. RandomForest.ipynb
   * Purpose
     * Predict movement type from all features of accelerometer and gyroscopic data
@@ -59,3 +58,69 @@ Explore and learn various tools available in Pandas, Sklearn, Statsmodels and Sc
     10. tGravityAcc_energy_Y (0.017)
 ```
 ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/Feature_Importance_Full.png?raw=true)
+3. kNN.ipynb
+  * Purpose
+    * Classify flower type using feature lengths
+  * Learning Objectives
+    * Implement a Nearest Neighbor function
+  * Output
+  ![img](https://github.com/silkaitis/Thinkful-unit4/blob/master/kNN_sepal_wid_vs_len.png?raw=true)
+  ```
+      Iteration 0
+    Majority class is Iris-virginica
+    Data point 130 was selected
+    Data point class is Iris-virginica
+
+    Iteration 1
+    Majority class is Iris-virginica
+    Data point 118 was selected
+    Data point class is Iris-virginica
+
+    Iteration 2
+    Majority class is Iris-setosa
+    Data point 38 was selected
+    Data point class is Iris-setosa
+
+    Iteration 3
+    Majority class is Iris-versicolor
+    Data point 77 was selected
+    Data point class is Iris-versicolor
+
+    Iteration 4
+    Majority class is Iris-virginica
+    Data point 54 was selected
+    Data point class is Iris-versicolor
+
+    Iteration 5
+    Majority class is Iris-setosa
+    Data point 33 was selected
+    Data point class is Iris-setosa
+
+    Iteration 6
+    Majority class is Iris-setosa
+    Data point 106 was selected
+    Data point class is Iris-virginica
+
+    Iteration 7
+    Majority class is Iris-setosa
+    Data point 6 was selected
+    Data point class is Iris-setosa
+
+    Iteration 8
+    Majority class is Iris-virginica
+    Data point 105 was selected
+    Data point class is Iris-virginica
+
+    Iteration 9
+    Majority class is Iris-setosa
+    Data point 31 was selected
+    Data point class is Iris-setosa
+  ```
+4. kMeans.ipynb
+  * Purpose
+    * Cluster individuals based on age, infant mortality and GDP
+  * Learning Objectives
+    * Implement kMeans from SciPy
+  * Output
+  ![i1](https://github.com/silkaitis/Thinkful-unit4/blob/master/GDPperCapita.png?raw=true)
+  ![i2](https://github.com/silkaitis/Thinkful-unit4/blob/master/Average%20within-cluster%20sum%20of%20squares.png?raw=true)
